@@ -25,10 +25,9 @@
         <version>5</version>
     </parent>
 
-    <groupId>com.google.cloud.teleport</groupId>
-    <artifactId>google-cloud-teleport-java</artifactId>
-    <version>0.1-SNAPSHOT</version>
-    <name>Google Cloud Teleport</name>
+    <groupId>com.ipcybris.patent</groupId>
+    <artifactId>uspto</artifactId>
+    <version>1.0-SNAPSHOT</version>
     <description>
         Cloud Teleport is a collection of Apache Beam pipelines for common tasks, like data movement
         across databases or batch transforms on random datasets.
